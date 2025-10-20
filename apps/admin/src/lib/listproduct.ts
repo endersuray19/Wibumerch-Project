@@ -1,0 +1,166 @@
+export const listproducts = [
+    {
+        "id": 1,
+        "title": " [Natsu no Owari SALE]s  Mash Kyrielight - Figma",
+        "category": "Figure",
+        "character": "Mash Kyrielight",
+        "series": "Fate/Grand Order",
+        "manufacture": "Max Factory",
+        "description": "Model : Fate Grand Order - Sega SPM Super Premium Mash Kyrielight Harga : 350.000 Tinggi : 22 cm Kemasan : Box Ketersediaan stock : Terbatas ( Grab it Fast ) Packing : Free Bubblewrap + Kardus Pelapis Original Figure",
+        "price": 180000,
+        "stock": 10,
+        "images": [
+            "/products/1brs1.jpg",
+            "/products/1brs2.jpg",
+            "/products/1fgo1.jpg",
+            "/products/1fgo2.jpg",
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Nendoroid Elishka - Black Rock Shooter FRAGMENT",
+        "category": "Nendoroid",
+        "character": "Black Rock Shooter",
+        "series": "Black★Rock Shooter",
+        "manufacture": "Good Smile Company",
+        "description": `"I only obey you. I won't take orders from just anyone." From the smartphone game "Black Rock Shooter FRAGMENT" comes a Nendoroid of Elishka. Face plates: · Neutral face · Combat face · Blushing face Optional parts: · Cannon · Sword · Blue flame effect part · Other optional parts for different poses.`,
+        "price": 499000,
+        "stock": 10,
+        "images": [
+            "/products/2brs1.jpg",
+            "/products/2brs2.jpg",
+            "/products/2brs3.jpg",
+            "/products/2brs4.jpg",
+        ]
+    },
+    {
+        "id": 3,
+        "title": "[Merah Putih SALE] Sousou no Frieren Plushie Frieren (17cm)",
+        "category": "Fumo",
+        "character": "Frieren",
+        "series": "Frieren: Beyond Journey's End",
+        "manufacture": "Good Smile Company",
+        "description": `From "Frieren: Beyond Journey's End" comes a collection of plushies! This plush features Frieren in her iconic outfit, complete with her long silver hair and elf ears. Made from soft materials, this plush is perfect for cuddling or displaying on your shelf.`,
+        "price": 699000,
+        "stock": 10,
+        "images": [
+            "/products/1Fr1.jpg",
+            "/products/1Fr2.jpg",
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Nendoroid Gotoh Hitori - Tracksuit Ver. Bocchi The Rock!",
+        "category": "Nendoroid",
+        "character": "Hitori Gotoh",
+        "series": "Bocchi the Rock!",
+        "manufacture": "Good Smile Company",
+        "description": `Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height. “I-I really enjoyed hanging out with everyone today.” From "Bocchi the Rock!" comes a Nendoroid of Hitori Gotoh in her tracksuit from the 9th episode! Face plates: · Blushing face · Shocked face · Sanded face Optional parts: · Mendako Ver. · Sunglasses · Other optional parts for different poses.`,
+        "price": 660000,
+        "stock": 10,
+        "images": [
+            "/products/1br1.jpg",
+            "/products/1br2.jpg",
+            "/products/1br3.jpg",
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Z[Tentative] The Metal Robot Spirits <Side Ms> ZGMF-X20A Strike Freedom Gundam - Re:Coordinate Ver. Mobile Suit Gundam SEED Destiny",
+        "category": "Robot Spirits",
+        "character": "Strike Freedom Gundam",
+        "series": "Mobile Suit Gundam",
+        "manufacture": "Bandai Spirits",
+        "description": "Materials ABS, Die Cast, PVC Dimensions H=140mm (5.46in)",
+        "price": 2650000,
+        "stock": 10,
+        "images": [
+            "/products/1gd1.jpg",
+            "/products/1gd2.jpg",
+            "/products/1gd3.jpg",
+            "/products/1gd4.jpg",
+        ]
+    },
+    {
+        "id": 6,
+        "title": "PVC Figure 1/7 Saber / Okita Souji",
+        "category": "Figure",
+        "character": "Okita Souji",
+        "series": "Fate",
+        "manufacture": "Aquamarine",
+        "description": "Kondisi barang ORI, NEW, MISB, Originally Manufactured by Aquamarine",
+        "price": 2150000,
+        "stock": 10,
+        "images": [
+            "/products/2fgo1.jpg",
+            "/products/2fgo2.jpg",
+            "/products/2fgo3.jpg",
+        ]
+    },
+    {
+        "id": 7,
+        "title": "[Merah Putih SALE] [Exclusive Sale] PVC Figure 1/7 Black Rock Shooter - HxxG Edition Ver.",
+        "category": "Figure",
+        "character": "Black Rock Shooter",
+        "series": "Black★Rock Shooter",
+        "manufacture": "Max Factory",
+        "description": `A star running through the dark delivers a brand new hope. Popular illustrator HxxG's illustration featuring "BLACK ROCK SHOOTER", a multimedia series fast approaching its fifteenth anniversary, has been transformed into a new scale figure—Black Rock Shooter: HxxG Edition. The figure features Black Rock Shooter in a dynamic pose rushing through crumbling debris, her beautifully sculpted body appearing both fragile and immensely strong at the same time. Black Rock Shooter is carrying her Rock Cannon, which almost appears as though it is floating in midair, while blue flame accents decorate the base of the figure. From top to bottom, the figure features a ton of eye-catching details you can only find in 3D form. Crossing through time and dimensions, the blue flame is headed to you.`,
+        "price": 3599000,
+        "stock": 10,
+        "images": [
+            "/products/3brs1.jpg",
+            "/products/3brs2.jpg",
+            "/products/3brs3.jpg",
+            "/products/3brs4.jpg",
+            "/products/3brs5.jpg",
+        ]
+    },
+    {
+        "id": 8,
+        "title": "PVC Figure 1/7 Fern - Reflections of Distant Memory Ver. Sousou no Frieren",
+        "category": "Figure",
+        "character": "Fern",
+        "series": "Frieren: Beyond Journey's End",
+        "manufacture": "Good Smile Company",
+        "description": `Painted plastic 1/7 scale complete product with stand included. Approximately 240mm in height (including base) / 230mm in height (excluding base). "Learning to live on my own is my way of repaying his kindness." From the anime series "Frieren: Beyond Journey's End" comes a vignette-style figure of the mage Fern! A beautiful butterfly, symbolic of Fern's precious memories with her loved ones, perches on her fingertip. Fern's gentle and charming expression as she gazes at the butterfly provides a fitting visual representation of her kind and tender personality. Her fluttering robe, delicate long hair, as well as the vignette base featuring a clear stream and flowers work hand in hand to create a quiet and serene display. The texture of the base and outfit, the warmth of the wooden staff and the elegant shine of the silver decorations have been carefully brought to life with skillful paintwork and sculpting. The result is a stunning figure that can be enjoyed not only as a whole, but also as a collection of individual eye-catching details. Be sure to add the beautiful scene to your collection!`,
+        "price": 2650000,
+        "stock": 10,
+        "images": [
+            "/products/2Fr1.jpg",
+            "/products/2Fr2.jpg",
+            "/products/2Fr3.jpg",
+            "/products/2Fr4.jpg",
+            "/products/2Fr5.jpg",
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Nendoroid Kita Ikuyo - Casual Clothes Ver. Bocchi The Rock!",
+        "category": "Nendoroid",
+        "character": "Kita Ikuyo",
+        "series": "Bocchi the Rock!",
+        "manufacture": "Good Smile Company",
+        "description": "Boneka Fumo Hitori Gotoh yang lucu, dengan rambut merah muda khas dan ekspresi wajah yang kosong.",
+        "price": 700000,
+        "stock": 10,
+        "images": [
+            "/products/2br1.jpg",
+            "/products/2br2.jpg",
+            "/products/2br3.jpg",
+        ]
+    },
+    {
+        "id": 10,
+        "title": "[Tentative] Metal Robot Spirits -SIDE MS- Immortal Justice Gundam - Mobile Suit Gundam SEED Freedom",
+        "category": "Robot Spirits",
+        "character": "Immortal Justice Gundam",
+        "series": "Mobile Suit Gundam",
+        "manufacture": "Bandai Spirits",
+        "description": "Specifications Size: Approx. H140mm Material: ABS, PVC, Diecast [Set Contents] Main figure Alternative hand part (left/right) x4 types each Beam rifle Beam saber (left/right) Shield Shield effect Leg part beam blade effect (left/right) Antenna spare Shield joint set Stand joint set Rising freedom Gundam hand part (left/right) Base set",
+        "price": 2450000,
+        "stock": 10,
+        "images": [
+            "/products/2gd1.jpg",
+        ]
+    },
+];

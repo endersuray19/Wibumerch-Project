@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .icon-md {
+    @apply w-4 h-4 text-gray-400;
+  }
+  .text-small {
+    @apply text-sm  ;
+  }
+  .title-footer{
+    @apply text-sm  text-amber-200 md:text-center text-left mt-5 md:mt-0;
+  }
+  .footer-part{
+    @apply flex flex-col gap-4 md:gap-2 md:items-start items-center text-gray-400 
+  }
+  .bigger-text{
+    @apply text-xl font-medium text-gray-800
+  }
+  .detail-page{
+    @apply  border-1 border-gray-100 p-8 rounded-lg flex flex-col gap-8 shadow-lg
+  }
+  .flex-4{
+    @apply flex flex-col gap-4
+  }
+  .flex-1{
+    @apply flex flex-col gap-1
+  }
+  .font-sm{
+    @apply font-medium text-sm
+  }
+  .input-shipping{
+    @apply border-b border-gray-400 py-2 outline-none text-sm text-gray-700
+  }
+  .button-full{
+    @apply w-full  hover:bg-gray-200 transition-all duration-300 text-white  font-medium p-2 flex cursor-pointer rounded-lg mt-4 items-center justify-center gap-2
+  }
+
+}
